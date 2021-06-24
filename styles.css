@@ -15,7 +15,6 @@ body{
 }
 
 form{
-  position: relative;
   margin: 50px auto;
   background-color: rgba(27, 31, 34, 0.80);
   width: 640px;
